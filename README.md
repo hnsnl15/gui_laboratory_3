@@ -27,8 +27,7 @@ choose will not have any impact on your grade.
 ## Output
 
 ![Download Exe](downloadexepng.png "Download exe png")<br/>
-**Link here:
-** [Grade Calculator.exe](https://drive.google.com/file/d/1F760K8nVmEjI9ecozVMTNyKubNROKyac/view?usp=sharing)
+**Link here:** [Grade Calculator.exe](https://drive.google.com/file/d/1F760K8nVmEjI9ecozVMTNyKubNROKyac/view?usp=sharing)
 
 ## Cloning and Running the Java Application in IntelliJ
 

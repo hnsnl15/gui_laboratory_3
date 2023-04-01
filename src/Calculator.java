@@ -100,7 +100,7 @@ public class Calculator extends JFrame {
     }
 
     // Calculate Grade
-    private void calculateGrade() throws IllegalArgumentException {
+    private void calculateGrade() {
         try {
             double accumulatedPercentage = 0;
             // Loop through grade list

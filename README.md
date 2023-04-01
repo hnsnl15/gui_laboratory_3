@@ -27,8 +27,7 @@ choose will not have any impact on your grade.
 ## Output
 
 ![Download Exe](downloadexepng.png "Download exe png")<br/>
-**Link here:
-** [Grade Calculator.exe](https://drive.google.com/file/d/1F760K8nVmEjI9ecozVMTNyKubNROKyac/view?usp=sharing)
+**Link here:** [Grade Calculator.exe](https://drive.google.com/file/d/1F760K8nVmEjI9ecozVMTNyKubNROKyac/view?usp=sharing)
 
 ## Cloning and Running the Java Application in IntelliJ
 
@@ -53,7 +52,7 @@ Before you can clone and run the Java application, you need to have the followin
 
 ## Running the Application
 
-- Open the Calculator class of the project.
-- Click the green arrow icon in the left margin of the editor, or right-click the file and select Run Main.main().
+- Open the Calculator class of the project, make sure to setup and apply JDK first and make some editing changes to remove errors.
+- Click the green arrow icon in the left margin of the editor, or right-click the file and select Run Calculator.main().
 - IntelliJ IDEA will compile and run the application.
 - That's it! You should now have my Java application running in IntelliJ IDEA.

@@ -43,7 +43,7 @@ public class Calculator extends JFrame {
         calculateButton.setEnabled(!gradeList.isEmpty());
         calculateButton.addActionListener(e -> calculateGrade());
 
-        add(new JTextField(""));
+        add(new JLabel(""));
 
         // Button for resetting list of grade
         JButton resetButton = new JButton("Reset");
